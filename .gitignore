@@ -1,0 +1,5 @@
+.python-version
+notes.txt
+pyproject.toml
+__pycache__/main.cpython-311.pyc
+uv.lock
